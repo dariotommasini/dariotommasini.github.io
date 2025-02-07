@@ -34,5 +34,5 @@ I've had the privelege to work with many great scientists. I have also had the p
 
 * Sandia National Laboratories:
     * Kelly Williams (PI)
-    * Katherine Mageeney (mentor)
+    * Catherine Mageeney (mentor)
 
