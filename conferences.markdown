@@ -24,7 +24,7 @@ As a Ph.D. student, I have attended several fantastic conferences, both in the U
 <img src="files/GRC_2024.png" alt="Description" style="float: right; margin-right: 10px; width: 400px;">
 <br>
 <br>
-**Gorder Research Conference, Lucca Italy (2024).** I presented a poster on amacrine cell evolution. I met many cool researchers working on visual system development and got to enjoy an italian sandwich in Florence! I had a great time hanging out with my lab mates in Italy: Matthew Po, Josh Hahn, and Sal Butrus. 
+**Gordon Research Conference, Lucca Italy (2024).** I presented a poster on amacrine cell evolution. I met many cool researchers working on visual system development and got to enjoy an italian sandwich in Florence! I had a great time hanging out with my lab mates in Italy: Matthew Po, Josh Hahn, and Sal Butrus. 
 <br>
 <br>
 <br>
