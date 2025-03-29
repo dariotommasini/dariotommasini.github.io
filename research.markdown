@@ -24,7 +24,7 @@ Below are a few research projects that I have or am currently working on!
     
     [Tommasini D, Fogel BL. multiWGCNA: an R package for deep mining gene co-expression networks in multi-trait expression data. BMC Bioinformatics 24, 115 (2023).](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05233-z)
         <br>
-    Available on [Bioconductor](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05233-z) and [GitHub](https://github.com/fogellab/multiWGCNA)
+    Available on [Bioconductor](https://www.bioconductor.org/packages/release/bioc/html/multiWGCNA.html) and [GitHub](https://github.com/fogellab/multiWGCNA)
     
     ![multiWGCNA figure](files/research-mw.png)
     <br>
