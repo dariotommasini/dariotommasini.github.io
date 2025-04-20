@@ -10,11 +10,11 @@ Below are a few research projects that I have or am currently working on!
 
 
 1. **Evolution of the vertebrate visual system**  
-    In my first project as a graduate student in Prof. Karthik Shekhar’s lab, I pursued the evolutionary origin of the tetrapod double cone, an unorthodox photoreceptor found only in certain tetrapods. These cells are called “double cones” because they are composed of two different cone photoreceptors – a principal and accessory member. Notably, we were able to i) isolate double cones in single-cell data, ii) identify novel markers for the principal and accessory members, and iii) align photoreceptors across five vertebrates that span the emergence and loss of double cones. Based on this computational analysis, we concluded that the principal member likely evolved from red cones, while the origin of the accessory member is less clear. I highlighted this work at the 2024 Berkeley Neuroscience Conference as a 5 minute lightning talk and at the 2024 Berkeley Vision Science Retreat as a 15 minute platform talk. 
+    As a graduate student in Prof. Karthik Shekhar’s lab, I studied the evolution of photoreceptors and the origin of the tetrapod double cone, an unorthodox photoreceptor found only in certain tetrapods. These cells are called “double cones” because they are composed of two different cone photoreceptors – a principal and accessory member. Notably, we were able to i) isolate double cones in single-cell data, ii) identify novel markers for the principal and accessory members, and iii) align photoreceptors across five vertebrates that span the emergence and loss of double cones. Based on this computational analysis, we concluded that the principal member likely evolved from red cones, while the origin of the accessory member is less clear. I highlighted this work at the 2024 Berkeley Neuroscience Conference as a 5 minute lightning talk and at the 2024 Berkeley Vision Science Retreat as a 15 minute platform talk. 
     
-    [Tommasini D, Yoshimatsu T, Baden T, and Shekhar K. Comparative transcriptomic insights into the evolutionary origin of the tetrapod double cone. BioRxiv. 2024.](https://www.biorxiv.org/content/10.1101/2024.11.04.621990v1)
+    [Tommasini D, Yoshimatsu T, Puthussery T, Baden T, and Shekhar K. Comparative transcriptomic insights into the evolutionary origin of the tetrapod double cone. Current Biology. 2025.](https://doi.org/10.1016/j.cub.2025.03.060)
     
-    ![Double cone evolution figure](files/research-dc.png)
+    ![Double cone evolution figure](files/research-dc-v2.png)
 <!--<img src="image.png" alt="Description" width="500" height="300">-->
 <!--<img src="files/research-dc.png" alt="Double cone evolution figure" width="500">-->
     <br>
