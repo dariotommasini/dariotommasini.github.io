@@ -13,3 +13,5 @@ I've had the privelege to work with many great people, who have said some really
 * *"The only thing that separates science from alchemy is a positive and negative control"* <br>– Anonymous Mentor
 
 * *"Whenever you’re feeling inadequate, just remember Fisher came up with maximum likelihood as a grad student"* <br>– Anonymous Professor
+
+* *"The reward for good work is more work"* <br>– Anonymous Mentor
