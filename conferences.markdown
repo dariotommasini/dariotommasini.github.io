@@ -9,7 +9,7 @@ title: Conferences
 As a Ph.D. student, I have attended several fantastic conferences and workshops, both in the US and abroad! Here are some highlights: 
 
 
-<img src="files/VNW_2025.JPG" alt="Description" style="float: right; margin-right: 10px; width: 400px;">
+<img src="files/VNW_2025.jpg" alt="Description" style="float: right; margin-right: 10px; width: 400px;">
 <br>
 **Visual Neuroscience Workshop – Woods Hole, Massachusetts.** I attended a two-week long workshop with these wonderful folks. We took a variety of modules, including 2-photon calcium imaging from mouse, zebrafish, and octopus, patch-clamp electrophysiology, electron microscopy, and zebrafish behavior. 
 <br>
