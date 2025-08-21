@@ -46,11 +46,6 @@ As a Ph.D. student, I have attended several fantastic conferences and workshops,
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <img src="files/BNC_2023.png" alt="Description" style="float: left; margin-right: 10px; width: 400px;">
 <br>
