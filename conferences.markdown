@@ -11,7 +11,7 @@ As a Ph.D. student, I have attended several fantastic conferences and workshops,
 
 <img src="files/VNW_2025.jpg" alt="Description" style="float: right; margin-right: 10px; width: 400px;">
 <br>
-**Visual Neuroscience Workshop – Woods Hole, Massachusetts.** I attended a two-week long workshop with these wonderful folks. We took a variety of modules, including 2-photon calcium imaging from mouse, zebrafish, and octopus, patch-clamp electrophysiology, electron microscopy, and zebrafish behavior. 
+**Visual Neuroscience Workshop – Marine Biological Laboratory in Woods Hole, Massachusetts.** I attended a two-week long workshop with these wonderful folks. We took a variety of modules, including 2-photon calcium imaging from mouse, zebrafish, and octopus, patch-clamp electrophysiology, electron microscopy, and zebrafish behavior. 
 <br>
 <br>
 <br>
