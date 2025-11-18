@@ -9,8 +9,8 @@ title: Conferences
 As a Ph.D. student, I have attended several fantastic conferences and workshops, both in the US and abroad! Here are some highlights: 
 
 
-<img src="files/SFN-2025.png" alt="Description" style="float: left; margin-right: 10px; width: 400px;">
 <br>
+<img src="files/SFN-2025.png" alt="Description" style="float: left; margin-right: 10px; width: 400px;">
 **Society for Neuroscience – San Diego, California (2025).** I had a blast at this conference, where we learned about spatial navigation in freely moving human patients (Prof. Nanthia Suthana), speech production and comprehension (Prof. Edward Chang), and the current state of multiomic analysis in neurodegeneration. I participated in the "Photoreceptors and Retinal Circuitry" nanosymposium, where I gave a talk on the deep evolutionary roots of amacrine cell types. 
 <br>
 <br>
