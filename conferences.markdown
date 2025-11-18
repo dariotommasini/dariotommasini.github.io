@@ -18,9 +18,6 @@ As a Ph.D. student, I have attended several fantastic conferences and workshops,
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 <img src="files/VNW_2025.jpg" alt="Description" style="float: right; margin-right: 10px; width: 400px;">
 <br>
