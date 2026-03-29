@@ -1,0 +1,11 @@
+main:
+  - title: "About Me"
+    url: /aboutme.html
+  - title: "Research"
+    url: /research.html
+  - title: "Conferences"
+    url: /conferences.html
+  - title: "Collaborators"
+    url: /collaborators.html
+  - title: "Quotes"
+    url: /quotes.html

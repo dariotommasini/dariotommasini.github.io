@@ -1,7 +1,6 @@
 ---
-layout: home
-nav_title: " "
-heading: "Welcome"
+layout: single
+author_profile: true
 ---
 
 <!--<h1>Welcome!</h1>-->

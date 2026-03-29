@@ -334,7 +334,8 @@ DEPENDENCIES
   csv
   github-pages
   http_parser.rb (~> 0.6.0)
-  jekyll-feed (~> 0.12)
+  jekyll-feed
+  jekyll-include-cache
   jekyll-remote-theme
   jekyll-sitemap
   tzinfo (>= 1, < 3)

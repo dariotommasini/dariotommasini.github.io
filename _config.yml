@@ -1,28 +1,55 @@
 title: Dario Tommasini
 email: dtommasini@berkeley.edu
-description: >-
-  Personal website for Dario Tommasini
-url: "https://dariotommasini.github.io"  # upgraded to https
+description: "Personal website for Dario Tommasini"
+url: "https://dariotommasini.github.io"
 
-# Build settings
-remote_theme: jekyll/minima          # <-- key change for v3 on GitHub Pages
-minima:
-  skin: classic                      # options: classic, dark, auto, solarized, solarized-dark
-  date_format: "%B %-d, %Y"
-  social_links:
-    - { platform: twitter,  user_url: "https://twitter.com/TommasiniDario" }
-    - { platform: github,   user_url: "https://github.com/dariotommasini" }
-    - { platform: email,    user_url: "mailto:dtommasini@berkeley.edu" }
+# Set the skin
+minimal_mistakes_skin: "mint"  # options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
 
-header_pages:
-  - aboutme.markdown
-  - research.markdown
-  - conferences.markdown
-  - collaborators.markdown
-  - quotes.markdown
+remote_theme: mmistakes/minimal-mistakes
+
+author:
+  name: " "
+  avatar: "assets/images/headshot_2025.png"
+  email: "dtommasini@berkeley.edu"
+  bio: "PhD student in Neuroscience<br>at UC Berkeley"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/TommasiniDario"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dariotommasini"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/dariotommasini.bsky.social"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=TfVeYDwAAAAJ&hl=en"
+
+nav_links:
+  - title: "About Me"
+    url: /aboutme.html
+  - title: "Research"
+    url: /research.html
+  - title: "Conferences"
+    url: /conferences.html
+  - title: "Collaborators"
+    url: /collaborators.html
+  - title: "Quotes"
+    url: /quotes.html
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-remote-theme             # required for remote_theme to work on GitHub Pages
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
