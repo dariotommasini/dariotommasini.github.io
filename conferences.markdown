@@ -11,7 +11,7 @@ As a Ph.D. student, I have attended several fantastic conferences and workshops,
 
 
 <br>
-**Federation of American Societies for Experimental Biology (FASEB) – Sacramento, California (2026).** This was my first retina-centric conference and it was super nice to meet all the wonderful faculty in this field. We heard excellent talks from Jeremy Kay, Rachana Somaiya, Maureen McCall, EJ Chicilinksy, Fred Rieke, and many others. I found especially exciting and novel the talk by Daniel Palanker, who is developing subretinal implants to help restore vision in blind patients. I was suprised to hear that some patients have had these implants for over 5 years and their vision is still stable. This conference also unveiled the EyeWireII resource recently released on BioRxiv, a major resource for retinal research. 
+**Federation of American Societies for Experimental Biology (FASEB) – Sacramento, California (2026).** This was my first retina-centric conference and it was super nice to meet all the wonderful faculty in this field. We heard excellent talks from Jeremy Kay, Rachana Somaiya, Maureen McCall, EJ Chichilnisky, Fred Rieke, and many others. I found especially exciting and novel the talk by Daniel Palanker, who is developing subretinal implants to help restore vision in blind patients. I was suprised to hear that some patients have had these implants for over 5 years and their vision is still stable. This conference also unveiled the EyeWireII resource recently released on BioRxiv, a major resource for retinal research. 
 <img src="files/faseb-ew2.png" alt="Eyewire2 team and collaborators at the FASEB 2026 meeting">
 This picture shows members of the EyeWireII core team and members of collaboratoring labs that reunited at the FASEB 2026 meeting. 
 <br>
