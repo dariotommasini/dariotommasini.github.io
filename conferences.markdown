@@ -9,6 +9,16 @@ title: Conferences
 As a Ph.D. student, I have attended several fantastic conferences and workshops, both in the US and abroad! Here are some highlights: 
 
 
+
+<br>
+**Federation of American Societies for Experimental Biology (FASEB) – Sacramento, California (2026).** This was my first retina-centric conference and it was super nice to meet all the wonderful faculty in this field. We heard excellent talks from Jeremy Kay, Rachana Somaiya, Maureen McCall, EJ Chicilinksy, Fred Rieke, and many others. I found especially exciting and novel the talk by Daniel Palanker, who is developing subretinal implants to help restore vision in blind patients. I was suprised to hear that some patients have had these implants for over 5 years and their vision is still stable. This conference also unveiled the EyeWireII resource recently released on BioRxiv, a major resource for retinal research. 
+<img src="files/faseb-ew2.png" alt="Eyewire2 team and collaborators at the FASEB 2026 meeting">
+This picture shows members of the EyeWireII core team and members of collaboratoring labs that reunited at the FASEB 2026 meeting. 
+<br>
+<br>
+<br>
+
+
 <br>
 <img src="files/SFN-2025.png" alt="Description" style="float: left; margin-right: 10px; width: 400px;">
 **Society for Neuroscience – San Diego, California (2025).** I had a blast at this conference, where we learned about spatial navigation in freely moving human patients (Prof. Nanthia Suthana), speech production and comprehension (Prof. Edward Chang), and the current state of multiomic analysis in neurodegeneration. I participated in the "Photoreceptors and Retinal Circuitry" nanosymposium, where I gave a talk on the deep evolutionary roots of amacrine cell types. 
