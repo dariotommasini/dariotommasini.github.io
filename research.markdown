@@ -11,7 +11,7 @@ Below are a few of my current or past research projects!
 1. **Evolution of the vertebrate visual system**<br>
     As a graduate student in Prof. Karthik Shekhar’s lab, I've been studying amacrine cells, the primary inhibitory neurons of the retina. We performed a comparative analysis across 24 different vertebrate species, concluding that amacrine cell types are highly conserved. Many types can be traced back to basal vertebrates like fish, suggesting they are over 500 million years old! If you're interested in hearing more, check out my thread on [Bluesky](https://bsky.app/profile/dariotommasini.bsky.social/post/3mgodxm2uss2i) and read all the details in our preprint:
     
-    [Tommasini D, Monavarfeshani A, Dinesh V, Hahn J, Tangeman J, Marre O, Blackshaw S, Puthussery T, Sanes JR, Shekhar K. The Extreme Diversity Of Retinal Amacrine Cells Has Deep Evolutionary Roots. *bioRxiv*. 2026.](https://doi.org/10.64898/2026.03.07.710289)
+    [Tommasini D, Monavarfeshani A, Dinesh V, Hahn J, Tangeman J, Marre O, Blackshaw S, Puthussery T, Sanes JR, Shekhar K. The Extreme Diversity Of Retinal Amacrine Cells Has Deep Evolutionary Roots. *Science Advances*. 2026.](https://www.science.org/doi/10.1126/sciadv.aeg3223)
     
     
     ![AC evolution figure](files/research-ac.png)
